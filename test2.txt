@@ -1,0 +1,1443 @@
+currentTime: 0
+Task{ID=13, arrivalTime=2, serviceTime=5}
+Task{ID=23, arrivalTime=4, serviceTime=6}
+Task{ID=49, arrivalTime=5, serviceTime=5}
+Task{ID=33, arrivalTime=6, serviceTime=1}
+Task{ID=20, arrivalTime=7, serviceTime=1}
+Task{ID=1, arrivalTime=8, serviceTime=2}
+Task{ID=10, arrivalTime=8, serviceTime=3}
+Task{ID=40, arrivalTime=8, serviceTime=4}
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 1
+Task{ID=13, arrivalTime=2, serviceTime=5}
+Task{ID=23, arrivalTime=4, serviceTime=6}
+Task{ID=49, arrivalTime=5, serviceTime=5}
+Task{ID=33, arrivalTime=6, serviceTime=1}
+Task{ID=20, arrivalTime=7, serviceTime=1}
+Task{ID=1, arrivalTime=8, serviceTime=2}
+Task{ID=10, arrivalTime=8, serviceTime=3}
+Task{ID=40, arrivalTime=8, serviceTime=4}
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 2
+Task{ID=23, arrivalTime=4, serviceTime=6}
+Task{ID=49, arrivalTime=5, serviceTime=5}
+Task{ID=33, arrivalTime=6, serviceTime=1}
+Task{ID=20, arrivalTime=7, serviceTime=1}
+Task{ID=1, arrivalTime=8, serviceTime=2}
+Task{ID=10, arrivalTime=8, serviceTime=3}
+Task{ID=40, arrivalTime=8, serviceTime=4}
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=13, arrivalTime=2, serviceTime=5} 
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 3
+Task{ID=23, arrivalTime=4, serviceTime=6}
+Task{ID=49, arrivalTime=5, serviceTime=5}
+Task{ID=33, arrivalTime=6, serviceTime=1}
+Task{ID=20, arrivalTime=7, serviceTime=1}
+Task{ID=1, arrivalTime=8, serviceTime=2}
+Task{ID=10, arrivalTime=8, serviceTime=3}
+Task{ID=40, arrivalTime=8, serviceTime=4}
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=13, arrivalTime=2, serviceTime=4} 
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 4
+Task{ID=49, arrivalTime=5, serviceTime=5}
+Task{ID=33, arrivalTime=6, serviceTime=1}
+Task{ID=20, arrivalTime=7, serviceTime=1}
+Task{ID=1, arrivalTime=8, serviceTime=2}
+Task{ID=10, arrivalTime=8, serviceTime=3}
+Task{ID=40, arrivalTime=8, serviceTime=4}
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=13, arrivalTime=2, serviceTime=3} 
+Queue2: Task{ID=23, arrivalTime=4, serviceTime=6} 
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 5
+Task{ID=33, arrivalTime=6, serviceTime=1}
+Task{ID=20, arrivalTime=7, serviceTime=1}
+Task{ID=1, arrivalTime=8, serviceTime=2}
+Task{ID=10, arrivalTime=8, serviceTime=3}
+Task{ID=40, arrivalTime=8, serviceTime=4}
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=13, arrivalTime=2, serviceTime=2} 
+Queue2: Task{ID=23, arrivalTime=4, serviceTime=5} 
+Queue3: Task{ID=49, arrivalTime=5, serviceTime=5} 
+Queue4: closed
+Queue5: closed
+currentTime: 6
+Task{ID=20, arrivalTime=7, serviceTime=1}
+Task{ID=1, arrivalTime=8, serviceTime=2}
+Task{ID=10, arrivalTime=8, serviceTime=3}
+Task{ID=40, arrivalTime=8, serviceTime=4}
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=13, arrivalTime=2, serviceTime=1} 
+Queue2: Task{ID=23, arrivalTime=4, serviceTime=4} 
+Queue3: Task{ID=49, arrivalTime=5, serviceTime=4} 
+Queue4: Task{ID=33, arrivalTime=6, serviceTime=1} 
+Queue5: closed
+currentTime: 7
+Task{ID=1, arrivalTime=8, serviceTime=2}
+Task{ID=10, arrivalTime=8, serviceTime=3}
+Task{ID=40, arrivalTime=8, serviceTime=4}
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=20, arrivalTime=7, serviceTime=1} 
+Queue2: Task{ID=23, arrivalTime=4, serviceTime=3} 
+Queue3: Task{ID=49, arrivalTime=5, serviceTime=3} 
+Queue4: closed
+Queue5: closed
+currentTime: 8
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=1, arrivalTime=8, serviceTime=2} 
+Queue2: Task{ID=23, arrivalTime=4, serviceTime=2} 
+Queue3: Task{ID=49, arrivalTime=5, serviceTime=2} 
+Queue4: Task{ID=10, arrivalTime=8, serviceTime=3} 
+Queue5: Task{ID=40, arrivalTime=8, serviceTime=4} 
+currentTime: 9
+Task{ID=48, arrivalTime=10, serviceTime=6}
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=1, arrivalTime=8, serviceTime=1} 
+Queue2: Task{ID=23, arrivalTime=4, serviceTime=1} 
+Queue3: Task{ID=49, arrivalTime=5, serviceTime=1} 
+Queue4: Task{ID=10, arrivalTime=8, serviceTime=2} 
+Queue5: Task{ID=40, arrivalTime=8, serviceTime=3} 
+currentTime: 10
+Task{ID=14, arrivalTime=11, serviceTime=3}
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=48, arrivalTime=10, serviceTime=6} 
+Queue2: closed
+Queue3: closed
+Queue4: Task{ID=10, arrivalTime=8, serviceTime=1} 
+Queue5: Task{ID=40, arrivalTime=8, serviceTime=2} 
+currentTime: 11
+Task{ID=9, arrivalTime=12, serviceTime=5}
+Task{ID=35, arrivalTime=12, serviceTime=6}
+Task{ID=36, arrivalTime=12, serviceTime=6}
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=48, arrivalTime=10, serviceTime=5} 
+Queue2: Task{ID=14, arrivalTime=11, serviceTime=3} 
+Queue3: closed
+Queue4: closed
+Queue5: Task{ID=40, arrivalTime=8, serviceTime=1} 
+currentTime: 12
+Task{ID=46, arrivalTime=13, serviceTime=1}
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=48, arrivalTime=10, serviceTime=4} 
+Queue2: Task{ID=14, arrivalTime=11, serviceTime=2} 
+Queue3: Task{ID=9, arrivalTime=12, serviceTime=5} 
+Queue4: Task{ID=35, arrivalTime=12, serviceTime=6} 
+Queue5: Task{ID=36, arrivalTime=12, serviceTime=6} 
+currentTime: 13
+Task{ID=17, arrivalTime=14, serviceTime=6}
+Task{ID=26, arrivalTime=14, serviceTime=5}
+Task{ID=31, arrivalTime=14, serviceTime=5}
+Task{ID=43, arrivalTime=14, serviceTime=6}
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=48, arrivalTime=10, serviceTime=3} 
+Queue2: Task{ID=14, arrivalTime=11, serviceTime=1} Task{ID=46, arrivalTime=13, serviceTime=1} 
+Queue3: Task{ID=9, arrivalTime=12, serviceTime=4} 
+Queue4: Task{ID=35, arrivalTime=12, serviceTime=5} 
+Queue5: Task{ID=36, arrivalTime=12, serviceTime=5} 
+currentTime: 14
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=48, arrivalTime=10, serviceTime=2} Task{ID=26, arrivalTime=14, serviceTime=5} 
+Queue2: Task{ID=46, arrivalTime=13, serviceTime=1} Task{ID=17, arrivalTime=14, serviceTime=6} 
+Queue3: Task{ID=9, arrivalTime=12, serviceTime=3} Task{ID=31, arrivalTime=14, serviceTime=5} 
+Queue4: Task{ID=35, arrivalTime=12, serviceTime=4} Task{ID=43, arrivalTime=14, serviceTime=6} 
+Queue5: Task{ID=36, arrivalTime=12, serviceTime=4} 
+currentTime: 15
+Task{ID=44, arrivalTime=16, serviceTime=5}
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=48, arrivalTime=10, serviceTime=1} Task{ID=26, arrivalTime=14, serviceTime=5} 
+Queue2: Task{ID=17, arrivalTime=14, serviceTime=6} 
+Queue3: Task{ID=9, arrivalTime=12, serviceTime=2} Task{ID=31, arrivalTime=14, serviceTime=5} 
+Queue4: Task{ID=35, arrivalTime=12, serviceTime=3} Task{ID=43, arrivalTime=14, serviceTime=6} 
+Queue5: Task{ID=36, arrivalTime=12, serviceTime=3} 
+currentTime: 16
+Task{ID=7, arrivalTime=17, serviceTime=2}
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=26, arrivalTime=14, serviceTime=5} 
+Queue2: Task{ID=17, arrivalTime=14, serviceTime=5} 
+Queue3: Task{ID=9, arrivalTime=12, serviceTime=1} Task{ID=31, arrivalTime=14, serviceTime=5} 
+Queue4: Task{ID=35, arrivalTime=12, serviceTime=2} Task{ID=43, arrivalTime=14, serviceTime=6} 
+Queue5: Task{ID=36, arrivalTime=12, serviceTime=2} Task{ID=44, arrivalTime=16, serviceTime=5} 
+currentTime: 17
+Task{ID=32, arrivalTime=18, serviceTime=3}
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=26, arrivalTime=14, serviceTime=4} Task{ID=7, arrivalTime=17, serviceTime=2} 
+Queue2: Task{ID=17, arrivalTime=14, serviceTime=4} 
+Queue3: Task{ID=31, arrivalTime=14, serviceTime=5} 
+Queue4: Task{ID=35, arrivalTime=12, serviceTime=1} Task{ID=43, arrivalTime=14, serviceTime=6} 
+Queue5: Task{ID=36, arrivalTime=12, serviceTime=1} Task{ID=44, arrivalTime=16, serviceTime=5} 
+currentTime: 18
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=26, arrivalTime=14, serviceTime=3} Task{ID=7, arrivalTime=17, serviceTime=2} 
+Queue2: Task{ID=17, arrivalTime=14, serviceTime=3} Task{ID=32, arrivalTime=18, serviceTime=3} 
+Queue3: Task{ID=31, arrivalTime=14, serviceTime=4} 
+Queue4: Task{ID=43, arrivalTime=14, serviceTime=6} 
+Queue5: Task{ID=44, arrivalTime=16, serviceTime=5} 
+currentTime: 19
+Task{ID=21, arrivalTime=20, serviceTime=4}
+Task{ID=29, arrivalTime=20, serviceTime=6}
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=26, arrivalTime=14, serviceTime=2} Task{ID=7, arrivalTime=17, serviceTime=2} 
+Queue2: Task{ID=17, arrivalTime=14, serviceTime=2} Task{ID=32, arrivalTime=18, serviceTime=3} 
+Queue3: Task{ID=31, arrivalTime=14, serviceTime=3} 
+Queue4: Task{ID=43, arrivalTime=14, serviceTime=5} 
+Queue5: Task{ID=44, arrivalTime=16, serviceTime=4} 
+currentTime: 20
+Task{ID=22, arrivalTime=21, serviceTime=5}
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=26, arrivalTime=14, serviceTime=1} Task{ID=7, arrivalTime=17, serviceTime=2} Task{ID=29, arrivalTime=20, serviceTime=6} 
+Queue2: Task{ID=17, arrivalTime=14, serviceTime=1} Task{ID=32, arrivalTime=18, serviceTime=3} 
+Queue3: Task{ID=31, arrivalTime=14, serviceTime=2} Task{ID=21, arrivalTime=20, serviceTime=4} 
+Queue4: Task{ID=43, arrivalTime=14, serviceTime=4} 
+Queue5: Task{ID=44, arrivalTime=16, serviceTime=3} 
+currentTime: 21
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=7, arrivalTime=17, serviceTime=2} Task{ID=29, arrivalTime=20, serviceTime=6} 
+Queue2: Task{ID=32, arrivalTime=18, serviceTime=3} 
+Queue3: Task{ID=31, arrivalTime=14, serviceTime=1} Task{ID=21, arrivalTime=20, serviceTime=4} 
+Queue4: Task{ID=43, arrivalTime=14, serviceTime=3} 
+Queue5: Task{ID=44, arrivalTime=16, serviceTime=2} Task{ID=22, arrivalTime=21, serviceTime=5} 
+currentTime: 22
+Task{ID=45, arrivalTime=23, serviceTime=5}
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=7, arrivalTime=17, serviceTime=1} Task{ID=29, arrivalTime=20, serviceTime=6} 
+Queue2: Task{ID=32, arrivalTime=18, serviceTime=2} 
+Queue3: Task{ID=21, arrivalTime=20, serviceTime=4} 
+Queue4: Task{ID=43, arrivalTime=14, serviceTime=2} 
+Queue5: Task{ID=44, arrivalTime=16, serviceTime=1} Task{ID=22, arrivalTime=21, serviceTime=5} 
+currentTime: 23
+Task{ID=3, arrivalTime=24, serviceTime=1}
+Task{ID=41, arrivalTime=24, serviceTime=6}
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=29, arrivalTime=20, serviceTime=6} 
+Queue2: Task{ID=32, arrivalTime=18, serviceTime=1} Task{ID=45, arrivalTime=23, serviceTime=5} 
+Queue3: Task{ID=21, arrivalTime=20, serviceTime=3} 
+Queue4: Task{ID=43, arrivalTime=14, serviceTime=1} 
+Queue5: Task{ID=22, arrivalTime=21, serviceTime=5} 
+currentTime: 24
+Task{ID=5, arrivalTime=25, serviceTime=3}
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=29, arrivalTime=20, serviceTime=5} 
+Queue2: Task{ID=45, arrivalTime=23, serviceTime=5} 
+Queue3: Task{ID=21, arrivalTime=20, serviceTime=2} 
+Queue4: Task{ID=3, arrivalTime=24, serviceTime=1} Task{ID=41, arrivalTime=24, serviceTime=6} 
+Queue5: Task{ID=22, arrivalTime=21, serviceTime=4} 
+currentTime: 25
+Task{ID=12, arrivalTime=26, serviceTime=1}
+Task{ID=16, arrivalTime=26, serviceTime=1}
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=29, arrivalTime=20, serviceTime=4} 
+Queue2: Task{ID=45, arrivalTime=23, serviceTime=4} 
+Queue3: Task{ID=21, arrivalTime=20, serviceTime=1} Task{ID=5, arrivalTime=25, serviceTime=3} 
+Queue4: Task{ID=41, arrivalTime=24, serviceTime=6} 
+Queue5: Task{ID=22, arrivalTime=21, serviceTime=3} 
+currentTime: 26
+Task{ID=11, arrivalTime=27, serviceTime=3}
+Task{ID=39, arrivalTime=27, serviceTime=1}
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=29, arrivalTime=20, serviceTime=3} Task{ID=16, arrivalTime=26, serviceTime=1} 
+Queue2: Task{ID=45, arrivalTime=23, serviceTime=3} 
+Queue3: Task{ID=5, arrivalTime=25, serviceTime=3} 
+Queue4: Task{ID=41, arrivalTime=24, serviceTime=5} 
+Queue5: Task{ID=22, arrivalTime=21, serviceTime=2} Task{ID=12, arrivalTime=26, serviceTime=1} 
+currentTime: 27
+Task{ID=37, arrivalTime=28, serviceTime=5}
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=29, arrivalTime=20, serviceTime=2} Task{ID=16, arrivalTime=26, serviceTime=1} 
+Queue2: Task{ID=45, arrivalTime=23, serviceTime=2} Task{ID=11, arrivalTime=27, serviceTime=3} 
+Queue3: Task{ID=5, arrivalTime=25, serviceTime=2} Task{ID=39, arrivalTime=27, serviceTime=1} 
+Queue4: Task{ID=41, arrivalTime=24, serviceTime=4} 
+Queue5: Task{ID=22, arrivalTime=21, serviceTime=1} Task{ID=12, arrivalTime=26, serviceTime=1} 
+currentTime: 28
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=29, arrivalTime=20, serviceTime=1} Task{ID=16, arrivalTime=26, serviceTime=1} 
+Queue2: Task{ID=45, arrivalTime=23, serviceTime=1} Task{ID=11, arrivalTime=27, serviceTime=3} 
+Queue3: Task{ID=5, arrivalTime=25, serviceTime=1} Task{ID=39, arrivalTime=27, serviceTime=1} 
+Queue4: Task{ID=41, arrivalTime=24, serviceTime=3} 
+Queue5: Task{ID=12, arrivalTime=26, serviceTime=1} Task{ID=37, arrivalTime=28, serviceTime=5} 
+currentTime: 29
+Task{ID=2, arrivalTime=30, serviceTime=6}
+Task{ID=4, arrivalTime=30, serviceTime=6}
+Task{ID=28, arrivalTime=30, serviceTime=2}
+Task{ID=42, arrivalTime=30, serviceTime=5}
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=16, arrivalTime=26, serviceTime=1} 
+Queue2: Task{ID=11, arrivalTime=27, serviceTime=3} 
+Queue3: Task{ID=39, arrivalTime=27, serviceTime=1} 
+Queue4: Task{ID=41, arrivalTime=24, serviceTime=2} 
+Queue5: Task{ID=37, arrivalTime=28, serviceTime=5} 
+currentTime: 30
+Task{ID=15, arrivalTime=31, serviceTime=4}
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=2, arrivalTime=30, serviceTime=6} 
+Queue2: Task{ID=11, arrivalTime=27, serviceTime=2} Task{ID=42, arrivalTime=30, serviceTime=5} 
+Queue3: Task{ID=4, arrivalTime=30, serviceTime=6} 
+Queue4: Task{ID=41, arrivalTime=24, serviceTime=1} Task{ID=28, arrivalTime=30, serviceTime=2} 
+Queue5: Task{ID=37, arrivalTime=28, serviceTime=4} 
+currentTime: 31
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=2, arrivalTime=30, serviceTime=5} 
+Queue2: Task{ID=11, arrivalTime=27, serviceTime=1} Task{ID=42, arrivalTime=30, serviceTime=5} 
+Queue3: Task{ID=4, arrivalTime=30, serviceTime=5} 
+Queue4: Task{ID=28, arrivalTime=30, serviceTime=2} Task{ID=15, arrivalTime=31, serviceTime=4} 
+Queue5: Task{ID=37, arrivalTime=28, serviceTime=3} 
+currentTime: 32
+Task{ID=6, arrivalTime=33, serviceTime=5}
+Task{ID=8, arrivalTime=33, serviceTime=5}
+Task{ID=24, arrivalTime=33, serviceTime=3}
+Task{ID=25, arrivalTime=33, serviceTime=6}
+Task{ID=27, arrivalTime=33, serviceTime=4}
+Task{ID=50, arrivalTime=33, serviceTime=4}
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=2, arrivalTime=30, serviceTime=4} 
+Queue2: Task{ID=42, arrivalTime=30, serviceTime=5} 
+Queue3: Task{ID=4, arrivalTime=30, serviceTime=4} 
+Queue4: Task{ID=28, arrivalTime=30, serviceTime=1} Task{ID=15, arrivalTime=31, serviceTime=4} 
+Queue5: Task{ID=37, arrivalTime=28, serviceTime=2} 
+currentTime: 33
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=2, arrivalTime=30, serviceTime=3} Task{ID=8, arrivalTime=33, serviceTime=5} 
+Queue2: Task{ID=42, arrivalTime=30, serviceTime=4} Task{ID=25, arrivalTime=33, serviceTime=6} 
+Queue3: Task{ID=4, arrivalTime=30, serviceTime=3} Task{ID=24, arrivalTime=33, serviceTime=3} Task{ID=50, arrivalTime=33, serviceTime=4} 
+Queue4: Task{ID=15, arrivalTime=31, serviceTime=4} Task{ID=27, arrivalTime=33, serviceTime=4} 
+Queue5: Task{ID=37, arrivalTime=28, serviceTime=1} Task{ID=6, arrivalTime=33, serviceTime=5} 
+currentTime: 34
+Task{ID=30, arrivalTime=35, serviceTime=4}
+Task{ID=47, arrivalTime=35, serviceTime=4}
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=2, arrivalTime=30, serviceTime=2} Task{ID=8, arrivalTime=33, serviceTime=5} 
+Queue2: Task{ID=42, arrivalTime=30, serviceTime=3} Task{ID=25, arrivalTime=33, serviceTime=6} 
+Queue3: Task{ID=4, arrivalTime=30, serviceTime=2} Task{ID=24, arrivalTime=33, serviceTime=3} Task{ID=50, arrivalTime=33, serviceTime=4} 
+Queue4: Task{ID=15, arrivalTime=31, serviceTime=3} Task{ID=27, arrivalTime=33, serviceTime=4} 
+Queue5: Task{ID=6, arrivalTime=33, serviceTime=5} 
+currentTime: 35
+Task{ID=18, arrivalTime=36, serviceTime=1}
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=2, arrivalTime=30, serviceTime=1} Task{ID=8, arrivalTime=33, serviceTime=5} Task{ID=47, arrivalTime=35, serviceTime=4} 
+Queue2: Task{ID=42, arrivalTime=30, serviceTime=2} Task{ID=25, arrivalTime=33, serviceTime=6} 
+Queue3: Task{ID=4, arrivalTime=30, serviceTime=1} Task{ID=24, arrivalTime=33, serviceTime=3} Task{ID=50, arrivalTime=33, serviceTime=4} 
+Queue4: Task{ID=15, arrivalTime=31, serviceTime=2} Task{ID=27, arrivalTime=33, serviceTime=4} 
+Queue5: Task{ID=6, arrivalTime=33, serviceTime=4} Task{ID=30, arrivalTime=35, serviceTime=4} 
+currentTime: 36
+Task{ID=19, arrivalTime=37, serviceTime=3}
+Task{ID=38, arrivalTime=37, serviceTime=1}
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=8, arrivalTime=33, serviceTime=5} Task{ID=47, arrivalTime=35, serviceTime=4} 
+Queue2: Task{ID=42, arrivalTime=30, serviceTime=1} Task{ID=25, arrivalTime=33, serviceTime=6} 
+Queue3: Task{ID=24, arrivalTime=33, serviceTime=3} Task{ID=50, arrivalTime=33, serviceTime=4} 
+Queue4: Task{ID=15, arrivalTime=31, serviceTime=1} Task{ID=27, arrivalTime=33, serviceTime=4} Task{ID=18, arrivalTime=36, serviceTime=1} 
+Queue5: Task{ID=6, arrivalTime=33, serviceTime=3} Task{ID=30, arrivalTime=35, serviceTime=4} 
+currentTime: 37
+Task{ID=34, arrivalTime=38, serviceTime=1}
+Queue1: Task{ID=8, arrivalTime=33, serviceTime=4} Task{ID=47, arrivalTime=35, serviceTime=4} 
+Queue2: Task{ID=25, arrivalTime=33, serviceTime=6} Task{ID=38, arrivalTime=37, serviceTime=1} 
+Queue3: Task{ID=24, arrivalTime=33, serviceTime=2} Task{ID=50, arrivalTime=33, serviceTime=4} 
+Queue4: Task{ID=27, arrivalTime=33, serviceTime=4} Task{ID=18, arrivalTime=36, serviceTime=1} Task{ID=19, arrivalTime=37, serviceTime=3} 
+Queue5: Task{ID=6, arrivalTime=33, serviceTime=2} Task{ID=30, arrivalTime=35, serviceTime=4} 
+currentTime: 38
+Queue1: Task{ID=8, arrivalTime=33, serviceTime=3} Task{ID=47, arrivalTime=35, serviceTime=4} 
+Queue2: Task{ID=25, arrivalTime=33, serviceTime=5} Task{ID=38, arrivalTime=37, serviceTime=1} 
+Queue3: Task{ID=24, arrivalTime=33, serviceTime=1} Task{ID=50, arrivalTime=33, serviceTime=4} Task{ID=34, arrivalTime=38, serviceTime=1} 
+Queue4: Task{ID=27, arrivalTime=33, serviceTime=3} Task{ID=18, arrivalTime=36, serviceTime=1} Task{ID=19, arrivalTime=37, serviceTime=3} 
+Queue5: Task{ID=6, arrivalTime=33, serviceTime=1} Task{ID=30, arrivalTime=35, serviceTime=4} 
+currentTime: 39
+Queue1: Task{ID=8, arrivalTime=33, serviceTime=2} Task{ID=47, arrivalTime=35, serviceTime=4} 
+Queue2: Task{ID=25, arrivalTime=33, serviceTime=4} Task{ID=38, arrivalTime=37, serviceTime=1} 
+Queue3: Task{ID=50, arrivalTime=33, serviceTime=4} Task{ID=34, arrivalTime=38, serviceTime=1} 
+Queue4: Task{ID=27, arrivalTime=33, serviceTime=2} Task{ID=18, arrivalTime=36, serviceTime=1} Task{ID=19, arrivalTime=37, serviceTime=3} 
+Queue5: Task{ID=30, arrivalTime=35, serviceTime=4} 
+currentTime: 40
+Queue1: Task{ID=8, arrivalTime=33, serviceTime=1} Task{ID=47, arrivalTime=35, serviceTime=4} 
+Queue2: Task{ID=25, arrivalTime=33, serviceTime=3} Task{ID=38, arrivalTime=37, serviceTime=1} 
+Queue3: Task{ID=50, arrivalTime=33, serviceTime=3} Task{ID=34, arrivalTime=38, serviceTime=1} 
+Queue4: Task{ID=27, arrivalTime=33, serviceTime=1} Task{ID=18, arrivalTime=36, serviceTime=1} Task{ID=19, arrivalTime=37, serviceTime=3} 
+Queue5: Task{ID=30, arrivalTime=35, serviceTime=3} 
+currentTime: 41
+Queue1: Task{ID=47, arrivalTime=35, serviceTime=4} 
+Queue2: Task{ID=25, arrivalTime=33, serviceTime=2} Task{ID=38, arrivalTime=37, serviceTime=1} 
+Queue3: Task{ID=50, arrivalTime=33, serviceTime=2} Task{ID=34, arrivalTime=38, serviceTime=1} 
+Queue4: Task{ID=18, arrivalTime=36, serviceTime=1} Task{ID=19, arrivalTime=37, serviceTime=3} 
+Queue5: Task{ID=30, arrivalTime=35, serviceTime=2} 
+currentTime: 42
+Queue1: Task{ID=47, arrivalTime=35, serviceTime=3} 
+Queue2: Task{ID=25, arrivalTime=33, serviceTime=1} Task{ID=38, arrivalTime=37, serviceTime=1} 
+Queue3: Task{ID=50, arrivalTime=33, serviceTime=1} Task{ID=34, arrivalTime=38, serviceTime=1} 
+Queue4: Task{ID=19, arrivalTime=37, serviceTime=3} 
+Queue5: Task{ID=30, arrivalTime=35, serviceTime=1} 
+currentTime: 43
+Queue1: Task{ID=47, arrivalTime=35, serviceTime=2} 
+Queue2: Task{ID=38, arrivalTime=37, serviceTime=1} 
+Queue3: Task{ID=34, arrivalTime=38, serviceTime=1} 
+Queue4: Task{ID=19, arrivalTime=37, serviceTime=2} 
+Queue5: closed
+currentTime: 44
+Queue1: Task{ID=47, arrivalTime=35, serviceTime=1} 
+Queue2: closed
+Queue3: closed
+Queue4: Task{ID=19, arrivalTime=37, serviceTime=1} 
+Queue5: closed
+currentTime: 45
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 46
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 47
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 48
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 49
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 50
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 51
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 52
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 53
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 54
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 55
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 56
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 57
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 58
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed
+currentTime: 59
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Queue4: closed
+Queue5: closed

@@ -1,0 +1,264 @@
+currentTime: 0
+Task{ID=3, arrivalTime=3, serviceTime=3}
+Task{ID=5, arrivalTime=3, serviceTime=6}
+Task{ID=4, arrivalTime=4, serviceTime=7}
+Task{ID=1, arrivalTime=7, serviceTime=4}
+Task{ID=6, arrivalTime=7, serviceTime=2}
+Queue1: Task{ID=2, arrivalTime=0, serviceTime=5} 
+Queue2: closed
+Queue3: closed
+currentTime: 1
+Task{ID=3, arrivalTime=3, serviceTime=3}
+Task{ID=5, arrivalTime=3, serviceTime=6}
+Task{ID=4, arrivalTime=4, serviceTime=7}
+Task{ID=1, arrivalTime=7, serviceTime=4}
+Task{ID=6, arrivalTime=7, serviceTime=2}
+Queue1: Task{ID=2, arrivalTime=0, serviceTime=4} 
+Queue2: closed
+Queue3: closed
+currentTime: 2
+Task{ID=3, arrivalTime=3, serviceTime=3}
+Task{ID=5, arrivalTime=3, serviceTime=6}
+Task{ID=4, arrivalTime=4, serviceTime=7}
+Task{ID=1, arrivalTime=7, serviceTime=4}
+Task{ID=6, arrivalTime=7, serviceTime=2}
+Queue1: Task{ID=2, arrivalTime=0, serviceTime=3} 
+Queue2: closed
+Queue3: closed
+currentTime: 3
+Task{ID=4, arrivalTime=4, serviceTime=7}
+Task{ID=1, arrivalTime=7, serviceTime=4}
+Task{ID=6, arrivalTime=7, serviceTime=2}
+Queue1: Task{ID=2, arrivalTime=0, serviceTime=2} 
+Queue2: Task{ID=3, arrivalTime=3, serviceTime=3} 
+Queue3: Task{ID=5, arrivalTime=3, serviceTime=6} 
+currentTime: 4
+Task{ID=1, arrivalTime=7, serviceTime=4}
+Task{ID=6, arrivalTime=7, serviceTime=2}
+Queue1: Task{ID=2, arrivalTime=0, serviceTime=1} Task{ID=4, arrivalTime=4, serviceTime=7} 
+Queue2: Task{ID=3, arrivalTime=3, serviceTime=2} 
+Queue3: Task{ID=5, arrivalTime=3, serviceTime=5} 
+currentTime: 5
+Task{ID=1, arrivalTime=7, serviceTime=4}
+Task{ID=6, arrivalTime=7, serviceTime=2}
+Queue1: Task{ID=4, arrivalTime=4, serviceTime=7} 
+Queue2: Task{ID=3, arrivalTime=3, serviceTime=1} 
+Queue3: Task{ID=5, arrivalTime=3, serviceTime=4} 
+currentTime: 6
+Task{ID=1, arrivalTime=7, serviceTime=4}
+Task{ID=6, arrivalTime=7, serviceTime=2}
+Queue1: Task{ID=4, arrivalTime=4, serviceTime=6} 
+Queue2: closed
+Queue3: Task{ID=5, arrivalTime=3, serviceTime=3} 
+currentTime: 7
+Queue1: Task{ID=4, arrivalTime=4, serviceTime=5} 
+Queue2: Task{ID=1, arrivalTime=7, serviceTime=4} 
+Queue3: Task{ID=5, arrivalTime=3, serviceTime=2} Task{ID=6, arrivalTime=7, serviceTime=2} 
+currentTime: 8
+Queue1: Task{ID=4, arrivalTime=4, serviceTime=4} 
+Queue2: Task{ID=1, arrivalTime=7, serviceTime=3} 
+Queue3: Task{ID=5, arrivalTime=3, serviceTime=1} Task{ID=6, arrivalTime=7, serviceTime=2} 
+currentTime: 9
+Queue1: Task{ID=4, arrivalTime=4, serviceTime=3} 
+Queue2: Task{ID=1, arrivalTime=7, serviceTime=2} 
+Queue3: Task{ID=6, arrivalTime=7, serviceTime=2} 
+currentTime: 10
+Queue1: Task{ID=4, arrivalTime=4, serviceTime=2} 
+Queue2: Task{ID=1, arrivalTime=7, serviceTime=1} 
+Queue3: Task{ID=6, arrivalTime=7, serviceTime=1} 
+currentTime: 11
+Queue1: Task{ID=4, arrivalTime=4, serviceTime=1} 
+Queue2: closed
+Queue3: closed
+currentTime: 12
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 13
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 14
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 15
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 16
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 17
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 18
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 19
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 20
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 21
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 22
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 23
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 24
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 25
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 26
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 27
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 28
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 29
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 30
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 31
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 32
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 33
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 34
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 35
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 36
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 37
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 38
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 39
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 40
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 41
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 42
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 43
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 44
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 45
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 46
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 47
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 48
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 49
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 50
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 51
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 52
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 53
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 54
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 55
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 56
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 57
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 58
+Queue1: closed
+Queue2: closed
+Queue3: closed
+currentTime: 59
+Queue1: closed
+Queue2: closed
+Queue3: closed
